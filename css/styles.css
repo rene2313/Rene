@@ -1,0 +1,49 @@
+body {
+  background-color: lightblue;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 70px;
+  margin: 1px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #1e90ff;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 0px;
+  color: ;
+}
+
+.image {
+  margin-top: 0px;
+}
+
+.image-mountain {
+  position: relative;
+  margin-top: 40px;
+}
+
+.top-container {}
+
+.middle-container {
+  
+}
+
+.bottom-container {}
+
+.footer-link {
+  text-decoration: none;
+  color: #1e90ff;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.btn {
+  text-decoration: none;
+  color: #1e90ff;
+  padding-bottom: 20px;
+}
